@@ -16,7 +16,7 @@ To empower businesses by providing innovative and efficient software solutions t
 ## Connect with Us
 
 - **Website**: [www.craftora.tech](https://www.craftora.tech/)
-- **Email**: [info@craftora.tech](mailto:info@craftora.tech)
+- **Email**: [craftora.work@gmail.com](craftora.work@gmail.com)
 - **LinkedIn**: [Craftora on LinkedIn](https://www.linkedin.com/company/craftora)
 
 We invite you to explore our repositories to see the projects we've been working on. If you're interested in collaborating or learning more about our services, feel free to reach out. Let's build something great together!
